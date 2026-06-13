@@ -4,6 +4,8 @@ Offshore fisheries represent a vital sector in the maritime economy, yet they fa
 
 By analyzing historical fleet data from **20,000+ Sri Lankan offshore fishing trip records**, this system provides fishermen and ship owners with real-time safety testing, pre-trip cost estimation, species catch distribution analysis, and profit break-even calculations.
 
+![OceanGuard Optimizer Dashboard](final/boat_dashboard.png)
+
 ---
 
 ## 📽️ Application Demonstration Video
